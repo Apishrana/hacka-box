@@ -21,7 +21,7 @@
 1. Fork this repo
 2. Go to the repo Settings > Secrets
 3. Add the following environment variables:
-   - GIST_ID: The ID portion from your gist url: (e.g. **https://gist.github.com/matmanna/<JUST_THIS_PART_THE_GIST_ID>**)
+   - GIST_ID: The ID portion from your gist url: (e.g. **https://gist.github.com/matmanna/<GIST_ID>**)
    - GH_TOKEN: The GitHub token generated above.
    - WAKATIME_API_KEY: The API key for your Hackatime account.
    - WAKATIME_API_URL [OPTIONAL]: A wakatime-compatible API URL (defaults to Hackatime!)
