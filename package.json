@@ -10,7 +10,7 @@
     "@octokit/rest": "^19.0.5",
     "axios": "^1.6.0",
     "dotenv": "^16.0.3",
-    "wakatime-client": "^2.7.0"
+    "wakatime-client": "https://github.com/quackclub/wakatime-client.git"
   },
   "devDependencies": {
     "@zeit/ncc": "0.20.5",
